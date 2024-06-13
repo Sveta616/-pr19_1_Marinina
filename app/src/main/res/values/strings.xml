@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pr19_Marinina</string>
+    <string name="title">Title</string>
+    <string name="enter">Enter the title of the crime</string>
+    <string name="details">Details</string>
+    <string name="solved">Solved</string>
+    <string name="ran">Title</string>
+</resources>
